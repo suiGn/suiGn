@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Calculating .me  
+## Calculating.me  
 **Identity is not stored — it is computed.**
 
 Calculating.me is the idea that you don’t exist in systems as a profile.  
@@ -10,27 +10,14 @@ Nothing persists unless you choose to **cleak** it.
 
 ---
 
-## What this means
-- **No accounts as records** — identity is a function.
-- You can appear in real-time as **proof**, not as stored history.
-- The system creates **no trail by default**.
-- Persistence is **an explicit decision**, not an automatic side-effect.
-
----
-
 ## Cleak
 **Cleak** is the act of *voluntarily persisting* a piece of identity.  
 A trace only exists when you decide to leave one.
 
 > No persistence without consent.
+> **A healthy system maximizes utility and minimizes attention capture.**
 
 ---
-
-## Why
-Most modern technology is designed to capture attention and centralize identity.  
-Calculating.me explores a different direction:
-
-> **A healthy system maximizes utility and minimizes attention capture.**
 
 ---
 
