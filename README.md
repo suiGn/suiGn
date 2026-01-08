@@ -15,9 +15,8 @@ Nothing persists unless you choose to **cleak** it.
 A trace only exists when you decide to leave one.
 
 > No persistence without consent.
+>
 > **A healthy system maximizes utility and minimizes attention capture.**
-
----
 
 ---
 
