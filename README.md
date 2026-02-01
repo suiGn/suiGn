@@ -9,5 +9,7 @@
 > **A healthy system maximizes utility and minimizes attention capture.**
 
 ```txt
-me = f(seed, context)
+me = f(seed, domain)
 ```
+
+Identity is computed from an **origin + a bounded semantic space.**
