@@ -13,3 +13,7 @@ me = f(seed, domain)
 ```
 
 Identity is computed from an **origin + a bounded semantic space.**
+
+**○ universe → ⊙ identity → ● meaning**
+
+suiGn.
