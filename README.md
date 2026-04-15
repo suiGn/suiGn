@@ -8,7 +8,9 @@ Memories lightweight (~0.00MB recent)
 Peak heap: 1.7GB before V8 ceiling
 
 ∴ The algorithm scales linearly.
+
 ∴ The limit is physical memory, not design.
+
 ∴ Auditability + privacy + batching all work.
 
 ---
