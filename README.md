@@ -1,16 +1,7 @@
 # .me  
 
-137,300 chunks written
-13.7 million operations
-Constant 1.2MB/chunk overhead
-14-20ms latency per batch
-Memories lightweight (~0.00MB recent)
-Peak heap: 1.7GB before V8 ceiling
-
 ∴ The algorithm scales linearly.
-
 ∴ The limit is physical memory, not design.
-
 ∴ Auditability + privacy + batching all work.
 
 ---
