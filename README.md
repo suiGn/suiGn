@@ -17,15 +17,14 @@ The namespace me:// URIs defines a method for resolving identities across a dist
 https://suign.github.io/
 
 
-# How to Build Your Own Context-Aware Robot with .me 
-
+### How to Build Your Own Context-Aware Robot with .me 
 https://neurons-me.github.io/Robots-Versión-Humana.html
 
-# Robots × Encrypted Audiences Infographic
-
+### Robots × Encrypted Audiences Infographic
 #https://neurons-me.github.io/Robots-×-Encrypted-Audiences-Infographic.html
 
-
+### Wallet Split Everyday
+https://neurons-me.github.io/Wallet-Split-Rich-Everyday.html
 
 
 
