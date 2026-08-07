@@ -12,12 +12,16 @@
 The Namespace Resolution Protocol (NRP) defines a method for resolving identities across a distributed mesh.
 
 **○ universe → ⊙ identity → ● meaning**
+
 https://suign.github.io/
 
 
 # How to Build Your Own Context-Aware Robot with .me 
+
 https://neurons-me.github.io/Robots-Versión-Humana.html
+
 # Robots × Encrypted Audiences Infographic
+
 #https://neurons-me.github.io/Robots-×-Encrypted-Audiences-Infographic.html
 
 
