@@ -21,7 +21,7 @@ https://neurons-me.github.io/Robots-Versión-Humana.html
 
 ### Robots × Encrypted Audiences Infographic
 Same object, different context, different audience.
-#https://neurons-me.github.io/Robots-×-Encrypted-Audiences-Infographic.html
+https://neurons-me.github.io/Robots-×-Encrypted-Audiences-Infographic.html
 
 ### Wallet Split Everyday
 You and .me share a leather wallet — @jabellae drops $5 and the graph derives who owes what. No spreadsheets, no “trust me” texts.
