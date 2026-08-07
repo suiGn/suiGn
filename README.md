@@ -6,10 +6,11 @@
 
 ∴ Auditability + privacy + batching all work.
 
+
 ---
 
 # The Namespace Resolution Protocol (NRP) 
-The Namespace Resolution Protocol (NRP) defines a method for resolving identities across a distributed mesh.
+The namespace me:// URIs defines a method for resolving identities across a distributed mesh.
 
 **○ universe → ⊙ identity → ● meaning**
 
@@ -23,6 +24,8 @@ https://neurons-me.github.io/Robots-Versión-Humana.html
 # Robots × Encrypted Audiences Infographic
 
 #https://neurons-me.github.io/Robots-×-Encrypted-Audiences-Infographic.html
+
+
 
 
 
