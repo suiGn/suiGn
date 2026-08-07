@@ -1,5 +1,5 @@
 # .me  
-**○ universe → ⊙ identity → ● meaning**
+## ○ universe → ⊙ identity → ● meaning
 
 ∴ The algorithm scales linearly.
 
@@ -11,7 +11,7 @@ https://suign.github.io/
 
 ---
 
-## The Namespace Resolution Protocol (NRP) - me:// URIs
+### The Namespace Resolution Protocol (NRP) - me:// URIs
 The namespace me:// URIs defines a method for resolving identities across a distributed mesh.
 https://neurons-me.github.io/NRP/
 
