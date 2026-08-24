@@ -15,9 +15,24 @@
 
 ---
 
-### The Namespace Resolution Protocol (NRP) - me:// URIs
+# The Namespace Resolution Protocol (NRP) 
+- me:// URIs
 The namespace me:// URIs defines a method for resolving identities across a distributed mesh.
 https://neurons-me.github.io/NRP/
+
+<table>
+  <tr>
+    <td>
+      <p><b>The Namespace Resolution Protocol (NRP) - me:// URIs</b></p>
+      <p>The namespace <code>me://</code> URIs defines a method for resolving identities across a distributed mesh.</p>
+      <br>
+      <a href="https://neurons-me.github.io/NRP/">👉 Read the specification</a>
+    </td>
+    <td width="120" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/neurons-me/neurons-me/main/assets/beatle.me.png" width="100" alt="beatle.me" style="border-radius: 8px;">
+    </td>
+  </tr>
+</table>
 
 ### How to Build Your Own Context-Aware Robot with .me 
 Facts live where they belong
