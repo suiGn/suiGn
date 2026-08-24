@@ -1,4 +1,3 @@
-# About .me  
 ## ○ universe → ⊙ .me → ● meaning
 
 ∴ The algorithm scales linearly.
