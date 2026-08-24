@@ -5,8 +5,8 @@
       <img src="https://neurons-me.github.io/assets/img/smileyFace.jpeg" width="100" alt="smiley face" style="border-radius: 8px;">
     </td>
     <td>
-      <p><b>∴ The algorithm scales linearly.</b> <a href="https://suign.github.io/WhatIsOK.html">What is O(K)?</a></p>
-      <p><b>∴ The limit is physical memory, not design.</b></p>
+      <p><b>∴ The algorithm scales linearly - </b> <a href="https://suign.github.io/WhatIsOK.html">What is O(K)?</a></p>
+      <p><b>∴ The limit is physical memory, not design. - <a href="https://neurons-me.github.io/.me/docs/Extreme-Fan-Out.html">One write. 100,000 dependents. All of them update — because they all actually depend on what changed.</a></b></p>
       <p><b>∴ Auditability + privacy + batching all work.</b></p>
       <a href="https://suign.github.io/">👉 Visit suign.github.io</a>
     </td>
