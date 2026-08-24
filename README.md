@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td>
-      <p>The namespace <code>me://</code> URIs defines a method for resolving identities across a distributed mesh. Start crawling .me</p>
+      <p>The namespace <code>me://</code> URIs defines a method for resolving identities across a distributed mesh. <a href="https://suign.github.io/Meshia.html">Start crawling the mesh with .me</a></p>
       <br>
       <a href="https://neurons-me.github.io/NRP/">👉 Read more</a>
     </td>
