@@ -5,11 +5,12 @@
       <img src="https://neurons-me.github.io/assets/img/smileyFace.jpeg" width="100" alt="smiley face" style="border-radius: 8px;">
     </td>
     <td>
-      <p><b>∴ The algorithm scales linearly.</b>
-      <b>∴ The limit is physical memory, not design.</b>
-      <b>∴ Auditability + privacy + batching all work.</b></p>
+      <p><b>∴ The algorithm scales linearly.</b></p>
+      <p><b>∴ The limit is physical memory, not design.</b></p>
+      <p><b>∴ Auditability + privacy + batching all work.</b></p>
       <br>
       <a href="https://suign.github.io/">👉 Visit suign.github.io</a>
+      <br>
     </td>
   </tr>
 </table>
