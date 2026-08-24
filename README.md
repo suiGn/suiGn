@@ -6,6 +6,7 @@
     </td>
     <td>
       <p><b>∴ The algorithm scales linearly.</b></p>
+      <a href="https://suign.github.io/WhatIsOK.html">What is O(K)?</a>
       <p><b>∴ The limit is physical memory, not design.</b></p>
       <p><b>∴ Auditability + privacy + batching all work.</b></p>
       <a href="https://suign.github.io/">👉 Visit suign.github.io</a>
