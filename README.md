@@ -8,9 +8,7 @@
       <p><b>∴ The algorithm scales linearly.</b></p>
       <p><b>∴ The limit is physical memory, not design.</b></p>
       <p><b>∴ Auditability + privacy + batching all work.</b></p>
-      <br>
       <a href="https://suign.github.io/">👉 Visit suign.github.io</a>
-      <br>
     </td>
   </tr>
 </table>
