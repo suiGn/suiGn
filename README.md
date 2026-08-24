@@ -29,9 +29,20 @@
   </tr>
 </table>
 
-### How to Build Your Own Context-Aware Robot with .me 
-Facts live where they belong
-https://neurons-me.github.io/Robots-Versión-Humana.html
+### What is All.This?
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <img src="https://res.cloudinary.com/dkwnxf6gm/image/upload/v1760629064/neurons.me_b50f6a.png" width="100" alt="neurons.me logo" style="border-radius: 8px;">
+    </td>
+    <td>
+      <p><b>What is All.This?</b></p>
+      <p>An entry point to the <b>neurons.me</b> ecosystem. <code>All.This</code> structures data, context, and identity into a unified graph, unifying protocol modules like <code>.me</code>, <code>cleaker</code>, and <code>monad</code> under one algorithmic layer.</p>
+      <br>
+      <a href="https://neurons-me.github.io/">👉 Explore All.This</a>
+    </td>
+  </tr>
+</table>
 
 ### Robots × Encrypted Audiences Infographic
 Same object, different context, different audience.
