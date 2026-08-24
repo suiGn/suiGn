@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="120" align="center" valign="middle">
-      <img src="https://neurons-me.github.io/assets/img/smileyFace.jpeg" width="100" alt="smiley face" style="border-radius: 8px;">
+      <img src="[https://neurons-me.github.io/assets/img/smileyFace.jpeg](https://suign.github.io/assets/imgs/smileyFace.png)" width="100" alt="smiley face" style="border-radius: 8px;">
     </td>
     <td>
       <p><b>∴ The algorithm scales linearly.</b></p>
