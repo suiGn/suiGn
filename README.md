@@ -1,5 +1,5 @@
 # .me  
-## ○ universe → ⊙ identity → ● meaning
+## ○ universe → ⊙ .me → ● meaning
 
 ∴ The algorithm scales linearly.
 
