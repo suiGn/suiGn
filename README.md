@@ -19,12 +19,12 @@
 <table>
   <tr>
     <td>
-      <p>The namespace <code>me://</code> URIs defines a method for resolving identities across a distributed mesh.</p>
+      <p>The namespace <code>me://</code> URIs defines a method for resolving identities across a distributed mesh. Start crawling .me</p>
       <br>
-      <a href="https://neurons-me.github.io/NRP/">👉 Read the specification</a>
+      <a href="https://neurons-me.github.io/NRP/">👉 Read more</a>
     </td>
     <td width="120" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/neurons-me/neurons-me/main/assets/beatle.me.png" width="100" alt="beatle.me" style="border-radius: 8px;">
+      <img src="https://raw.githubusercontent.com/neurons-me/neurons-me/main/assets/beatle.me.png" width="203" alt="beatle.me NPR Crawler" style="border-radius: 8px;">
     </td>
   </tr>
 </table>
