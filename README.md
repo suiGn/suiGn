@@ -8,6 +8,21 @@
 
 https://suign.github.io/
 
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <img src="https://neurons-me.github.io/assets/img/smileyFace.jpeg" width="100" alt="smiley face" style="border-radius: 8px;">
+    </td>
+    <td>
+      <p><b>∴ The algorithm scales linearly.</b></p>
+      <p><b>∴ The limit is physical memory, not design.</b></p>
+      <p><b>∴ Auditability + privacy + batching all work.</b></p>
+      <br>
+      <a href="https://suign.github.io/">👉 Visit suign.github.io</a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### The Namespace Resolution Protocol (NRP) - me:// URIs
